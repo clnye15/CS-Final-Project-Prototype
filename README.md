@@ -5,6 +5,7 @@
 ## Contributors
 
 ### Frontend
+Pierce Carlson
 
 ### Backend
 Kevin Hayes
